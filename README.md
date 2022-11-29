@@ -4,5 +4,5 @@
 📌 
 
 # Links dos projetos do Modulo III
-📌 Projeto individual ( Estão servidos? ) - Entrega dia 21/10/2022 - https://www.youtube.com/watch?v=mFD43nj-9wY <br>
-📌 Projeto em grupo - Entrega dia 07/11/2022 - https://www.youtube.com/watch?v=z8cVdrdhu_I
+📌 Projeto individual (Estão servidos?) - Entrega dia 21/12/2022 - https://www.youtube.com/watch?v=mFD43nj-9wY <br>
+📌 Projeto em grupo (Sendo servido)- Entrega dia 13/01/2023 - https://www.youtube.com/watch?v=B_IPzHODHPI
