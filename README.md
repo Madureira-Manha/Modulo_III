@@ -1,7 +1,7 @@
 # Links úteis das aulas:
 
 # Aula 01 - MIII
-📌 
+📌 Promisses - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise
 
 # Links dos projetos do Modulo III
 📌 Projeto individual (Estão servidos?) - Entrega dia 21/12/2022 - https://www.youtube.com/watch?v=mFD43nj-9wY <br>
