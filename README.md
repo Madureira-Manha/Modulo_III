@@ -7,8 +7,9 @@
 
 # Aula 02 - MIII
 📌 Patch vs Put - https://rapidapi.com/blog/put-vs-patch/ <br>
-📌 Evolução do HTTP - https://medium.com/platform-engineer/evolution-of-http-69cfe6531ba0
-
+📌 Evolução do HTTP - https://medium.com/platform-engineer/evolution-of-http-69cfe6531ba0 <br>
+📌 HTTP - https://developer.mozilla.org/pt-BR/docs/Web/HTTP <br>
+📌 HTTP Headers - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers#downloads <br>
 
 # Links dos projetos do Modulo III
 📌 Projeto individual (Estão servidos?) - Entrega dia 21/12/2022 - https://www.youtube.com/watch?v=mFD43nj-9wY <br>
