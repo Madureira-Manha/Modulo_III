@@ -10,7 +10,8 @@
 📌 Evolução do HTTP - https://medium.com/platform-engineer/evolution-of-http-69cfe6531ba0 <br>
 📌 HTTP - https://developer.mozilla.org/pt-BR/docs/Web/HTTP <br>
 📌 HTTP Headers - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers#downloads <br>
-📌 HTTP error -> https://http.cat/
+📌 HTTP error -> https://http.cat/ <br>
+📌 CallbackHell -> https://pt.stackoverflow.com/questions/188656/o-que-%C3%A9-o-inferno-dos-callbacks <br>
 
 # Links dos projetos do Modulo III
 📌 Projeto individual (Estão servidos?) - Entrega dia 21/12/2022 - https://www.youtube.com/watch?v=mFD43nj-9wY <br>
