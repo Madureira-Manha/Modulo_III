@@ -1,0 +1,7 @@
+{
+    "/quartos/list" : "/quartos/",
+    "/quartos/create" : "/quartos/",
+    "/quartos/update/:id" : "/quartos/:id",
+    "/quartos/delete/:id" : "/quartos/:id"
+
+}

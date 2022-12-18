@@ -1,0 +1,17 @@
+{
+  "quartos": [
+    { "numero": 111, "clienteID": 1, "id": 1 },
+    { "numero": 222, "clienteID": 2, "id": 2 },
+    { "numero": 333, "clienteID": 3, "id": 3 }
+  ],
+  "funcionarios": [
+    {"nome": "Jade", "cargo": "gerente", "id": 1},
+    {"nome": "Suellen", "cargo": "recepção", "id": 2},
+    {"nome": "Luiz", "cargo": "segurança", "id": 3}
+],
+  "clientes": [
+    {"nome": "Matheus", "cpf": "111.222.333.-44", "id": 1},
+    {"nome": "Gustavo", "cpf": "111.222.333.-55", "id": 2},
+    {"nome": "Laís", "cpf": "111.222.333.-66", "id": 3}
+  ]
+}
