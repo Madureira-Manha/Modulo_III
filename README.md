@@ -13,9 +13,28 @@
 📌 HTTP error -> https://http.cat/ <br>
 📌 CallbackHell -> https://pt.stackoverflow.com/questions/188656/o-que-%C3%A9-o-inferno-dos-callbacks <br>
 
+# Aula 03 - MIII<br>
+📌 <br>
+
+# Aula 04 - MIII<br>
+📌 <br>
+
+# Aula 05 - MIII<br>
+📌 <br>
+
+# Aula 06 - MIII<br>
+📌 <br>
+
+# Aula 07 - MIII<br>
+📌 <br>
+
+
 # Links dos projetos do Modulo III
 📌 Projeto individual (Estão servidos?) - Entrega dia 21/12/2022 - https://www.youtube.com/watch?v=mFD43nj-9wY <br>
 📌 Projeto em grupo (Sendo servido)- Entrega dia 13/01/2023 - https://www.youtube.com/watch?v=B_IPzHODHPI
 
 # PokeApi
 📌 https://pokeapi.co/api/v2/pokemon
+
+# Link das aulas de revisão
+📌 https://www.youtube.com/@williamfirmino2
